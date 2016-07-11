@@ -1,0 +1,17 @@
+---
+layout: null
+---
+{
+	"projects": [
+	{% for post in site.posts %}
+		{
+			"title": "{{ post.title }}",
+			"type": "{{ post.type }}",
+			"location": "{% if post.location %}{{ post.location }}{% endif %}",
+			"repository": "{% if post.code %}{{ post.code }}{% endif %}",
+			"blog": "{% if post.blog %}{{ post.blog }}{% endif %}",
+			"image": "{% if post.image %}{{ post.image }}{% endif %}",
+		{% if forloop.last %}} {% else %}}, {% endif %}
+	{% endfor %}
+	]
+}

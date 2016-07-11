@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Projects</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li id="{{ post.title }}" data-type="{{ post.type }}">
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>{{ post.title }}</h2>
+        {% if post.image %}
+          <p>
+            <a href="{{ post.location }}">
+              <img src="{{ post.image }}" alt="{{ post.title }}">
+            </a>
+          </p>
+        {% endif %}
+        {% if post.location %}
+          <p>
+            <a href="{{ post.location }}">Try it</a>
+          </p>
+        {% endif %}
+        {% if post.blog %}
+          <p>
+            <a href="{{ post.blog }}">I wrote some words about this project</a>
+          </p>
+        {% endif %}
+        {% if post.code %}
+          <p>
+            <a href="{{ post.code }}">Check out the code</a>
+          </p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
