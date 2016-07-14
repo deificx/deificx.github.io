@@ -11,7 +11,7 @@ So here we are.
 
 ## Projects
 
-### Sprite
+### Sprite (Jul 3, 2016)
 
 <img src="https://github.com/deificx/deificx.github.io/blob/master/images/sprite.png" alt="Sprite">
 
@@ -21,7 +21,7 @@ So here we are.
 
 
 
-### Tetris
+### Tetris (Feb 2, 2016)
 
 <img src="https://github.com/deificx/deificx.github.io/blob/master/images/tetris.png" alt="Tetris">
 
@@ -31,7 +31,7 @@ So here we are.
 - blog: https://iameven.com/tetris
 
 
-### Snake
+### Snake (Jan 8, 2016)
 
 <img src="https://github.com/deificx/deificx.github.io/blob/master/images/snake.png" alt="Snake">
 
@@ -39,5 +39,25 @@ So here we are.
 - location: https://deificx.github.io/snake
 - repository: https://github.com/deificx/snake
 - blog: https://iameven.com/snake
+
+
+### Sokoban Editor (Dec 11, 2012)
+
+<img src="https://github.com/deificx/deificx.github.io/blob/master/images/sokoban-editor.png" alt="Sokoban Editor">
+
+- type: tool
+- location: https://deificx.github.io/sokoban-editor
+- repository: https://github.com/deificx/sokoban-editor
+
+
+
+### Tic-Tac-Toe (Dec 10, 2012)
+
+<img src="https://github.com/deificx/deificx.github.io/blob/master/images/tic-tac-toe.png" alt="Tic-Tac-Toe">
+
+- type: game
+- location: https://deificx.github.io/tic-tac-toe
+- repository: https://github.com/deificx/tic-tac-toe
+
 
 

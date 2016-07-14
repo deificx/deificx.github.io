@@ -8,7 +8,7 @@ layout: null
 
 ## Projects
 {% for post in site.posts %}
-### {{ post.title }}
+### {{ post.title }} ({{ post.date | date: "%b %-d, %Y" }})
 
 {% if post.image %}<img src="https://github.com/deificx/deificx.github.io/blob/master{{ post.image }}" alt="{{ post.title }}">{% endif %}
 
