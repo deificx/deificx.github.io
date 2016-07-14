@@ -18,21 +18,23 @@ layout: default
             </a>
           </p>
         {% endif %}
+        <ul>
         {% if post.location %}
-          <p>
+          <li>
             <a href="{{ post.location }}">Try it</a>
-          </p>
+          </li>
         {% endif %}
         {% if post.blog %}
-          <p>
+          <li>
             <a href="{{ post.blog }}">I wrote some words about this project</a>
-          </p>
+          </li>
         {% endif %}
         {% if post.code %}
-          <p>
+          <li>
             <a href="{{ post.code }}">Check out the code</a>
-          </p>
+          </li>
         {% endif %}
+        </ul>
       </li>
     {% endfor %}
   </ul>
