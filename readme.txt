@@ -2,7 +2,7 @@
 layout: null
 ---
 
-# [deificx.github.io](https://deificx.github.io)
+# [alander.dev](https://alander.dev)
 
 {% include about.md %}
 
@@ -10,7 +10,7 @@ layout: null
 {% for post in site.posts %}
 ### {{ post.title }} ({{ post.date | date: "%b %-d, %Y" }})
 
-{% if post.image %}<img src="https://github.com/deificx/deificx.github.io/blob/master{{ post.image }}" alt="{{ post.title }}">{% endif %}
+{% if post.image %}<img src="https://github.com/deificx/alander.dev/blob/master{{ post.image }}" alt="{{ post.title }}">{% endif %}
 
 - type: {{ post.type }}
 {% if post.location %}- location: {{ post.location }}{% endif %}

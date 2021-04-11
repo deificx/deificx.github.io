@@ -1,9 +1,9 @@
 ---
-title: 'Sokoban Editor'
-code: 'https://github.com/deificx/sokoban-editor'
-image: '/images/sokoban-editor.png'
-location: 'https://deificx.github.io/sokoban-editor'
-type: 'tool'
+title: "Sokoban Editor"
+code: "https://github.com/deificx/sokoban-editor"
+image: "/images/sokoban-editor.png"
+location: "https://alander.dev/sokoban-editor"
+type: "tool"
 layout: post
 ---
 

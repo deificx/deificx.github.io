@@ -1,9 +1,9 @@
 ---
-title: 'Tic-Tac-Toe'
-code: 'https://github.com/deificx/tic-tac-toe'
-image: '/images/tic-tac-toe.png'
-location: 'https://deificx.github.io/tic-tac-toe'
-type: 'game'
+title: "Tic-Tac-Toe"
+code: "https://github.com/deificx/tic-tac-toe"
+image: "/images/tic-tac-toe.png"
+location: "https://alander.dev/tic-tac-toe"
+type: "game"
 layout: post
 ---
 
