@@ -10,7 +10,7 @@ layout: null
 			"location": "{% if post.location %}{{ post.location }}{% endif %}",
 			"repository": "{% if post.code %}{{ post.code }}{% endif %}",
 			"blog": "{% if post.blog %}{{ post.blog }}{% endif %}",
-			"image": "{% if post.image %}{{ post.image }}{% endif %}",
+			"image": "{% if post.image %}{{ post.image }}{% endif %}"
 		{% if forloop.last %}} {% else %}}, {% endif %}
 	{% endfor %}
 	]
