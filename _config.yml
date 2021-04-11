@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: deificx.github.io
+title: alander.dev
 email: even@alander.org
 description: > # this means to ignore newlines until "baseurl:"
-  A collection of my github projects that I find share-worthy.
+  Even Alander's github projects pages
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "https://alander.dev" # the base hostname & protocol for your site
 twitter_username: iameven
-github_username:  deificx
+github_username: deificx
 
 # Build settings
 markdown: kramdown
