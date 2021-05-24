@@ -15,7 +15,7 @@ So here we are.
 <img src="https://github.com/deificx/alander.dev/blob/master/images/sprite.png" alt="Sprite">
 
 - type: tool
-- location: https://alander.dev/sprite
+- location: https://sprite.alander.dev
 - repository: https://github.com/deificx/sprite
 
 ### Tetris (Feb 2, 2016)
@@ -23,7 +23,7 @@ So here we are.
 <img src="https://github.com/deificx/alander.dev/blob/master/images/tetris.png" alt="Tetris">
 
 - type: game
-- location: https://alander.dev/tetris
+- location: https://tetris.alander.dev
 - repository: https://github.com/deificx/tetris
 - blog: https://iameven.com/tetris
 
@@ -32,7 +32,7 @@ So here we are.
 <img src="https://github.com/deificx/alander.dev/blob/master/images/snake.png" alt="Snake">
 
 - type: game
-- location: https://alander.dev/snake
+- location: https://snake.alander.dev
 - repository: https://github.com/deificx/snake
 - blog: https://iameven.com/snake
 
@@ -41,7 +41,7 @@ So here we are.
 <img src="https://github.com/deificx/alander.dev/blob/master/images/sokoban-editor.png" alt="Sokoban Editor">
 
 - type: tool
-- location: https://alander.dev/sokoban-editor
+- location: https://sokoban-editor.alander.dev
 - repository: https://github.com/deificx/sokoban-editor
 
 ### Tic-Tac-Toe (Dec 10, 2012)
@@ -49,5 +49,5 @@ So here we are.
 <img src="https://github.com/deificx/alander.dev/blob/master/images/tic-tac-toe.png" alt="Tic-Tac-Toe">
 
 - type: game
-- location: https://alander.dev/tic-tac-toe
+- location: https://tic-tac-toe.alander.dev
 - repository: https://github.com/deificx/tic-tac-toe
