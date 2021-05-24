@@ -2,7 +2,7 @@
 title: "Sokoban Editor"
 code: "https://github.com/deificx/sokoban-editor"
 image: "/images/sokoban-editor.png"
-location: "https://alander.dev/sokoban-editor"
+location: "https://sokoban-editor.alander.dev"
 type: "tool"
 layout: post
 ---

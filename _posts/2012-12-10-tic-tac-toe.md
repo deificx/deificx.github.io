@@ -2,7 +2,7 @@
 title: "Tic-Tac-Toe"
 code: "https://github.com/deificx/tic-tac-toe"
 image: "/images/tic-tac-toe.png"
-location: "https://alander.dev/tic-tac-toe"
+location: "https://tic-tac-toe.alander.dev"
 type: "game"
 layout: post
 ---
